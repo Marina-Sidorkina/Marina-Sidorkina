@@ -15,3 +15,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## Srats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Marina-Sidorkina)](https://github.com/ryo-ma/github-profile-trophy)
+
