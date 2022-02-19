@@ -24,6 +24,11 @@
 ##
 
 <a href="https://github.com/Marina-Sidorkina">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Marina-Sidorkina&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Marina-Sidorkina&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Marina's GitHub Stats" />
 </a>
 
+##
+
+<a href="https://www.codewars.com/users/Marina-Sidorkina">
+  <img align="center" style="margin:0.5rem" src="https://www.codewars.com/users/Marina-Sidorkina/badges/large" alt="Marina's Codewars Stats" />
+</a>
