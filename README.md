@@ -1,6 +1,6 @@
 <h1 align="center">Добро пожаловать на мой GitHub!🇷🇺
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">𝔽𝕣𝕠𝕟𝕥𝕖𝕟𝕕-𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕗𝕣𝕠𝕞 ℝ𝕦𝕤𝕤𝕚𝕒 </h3>
+<h3 align="center">Я фронтенд-разработчик, и на моей странице вы можете ознакомиться с некоторыми моими проектами.</h3>
 
 ## Skills
 
