@@ -20,10 +20,6 @@
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![STYLELINT](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)
 
-## Статистика
-
-![STATS](https://github-readme-stats.vercel.app/api/top-langs/?username={Marina-Sidorkina}&theme=blue-green)
-
 
 ## Ссылка на мой профиль на сайте Codewars
 
