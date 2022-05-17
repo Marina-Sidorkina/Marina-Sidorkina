@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>Добро пожаловать на мой GitHub!🇷🇺</h1>
-<h3 align="center">Я фронтенд-разработчик.<br>На данной странице вы можете ознакомиться с некоторыми моими проектами<br> и узнать немного обо мне.</h3>
+<h3 align="center">Я фронтенд-разработчик.<br>На данной странице вы можете ознакомиться с некоторыми моими проектами.</h3>
 
 ## Мой технический стек
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,6 +12,8 @@
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+##
 
 ## Ссылка на мой профиль на сайте Codewars
 
