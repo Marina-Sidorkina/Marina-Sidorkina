@@ -31,4 +31,4 @@
 
 ## 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Marina-Sidorkina&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Marina-Sidorkina&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
