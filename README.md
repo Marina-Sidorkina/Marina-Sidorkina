@@ -28,3 +28,7 @@
 <a href="https://www.codewars.com/users/Marina-Sidorkina">
   <img align="center" style="margin:0.5rem" src="https://www.codewars.com/users/Marina-Sidorkina/badges/large" alt="Marina's Codewars Stats" />
 </a>
+
+## 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Marina-Sidorkina&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
